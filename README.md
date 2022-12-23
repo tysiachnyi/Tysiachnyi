@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tysiachnyi
-- 👀 I’m interested in ... JS, TS, React, Node.js, Express.js
+- 👀 I’m interested in ... JS, TS, React, Node.js, Express
 - 🌱 Software Engineer | eduki.com
 - 📫 nikita.tysiachnyi@gmail.com
 <!---
