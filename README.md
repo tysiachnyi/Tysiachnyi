@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tysiachnyi
 - 👀 I’m interested in ... JS, TS, React, Node.js, Express
-- 🌱 Software Engineer | eduki.com
+- 🌱 Software Engineer | Deutsche Postcode Lotterie
 - 📫 nikita.tysiachnyi@gmail.com
 <!---
 Tysiachnyi/Tysiachnyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
