@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Tysiachnyi
-- 👀 I’m interested in ... JS, TS, React, Node.js, Express
+- 👀 I’m interested in ... Python, JS, TS, React, Next.js, Node.js, Express
 - 🌱 Software Engineer | Deutsche Postcode Lotterie
 - 📫 nikita.tysiachnyi@gmail.com
 <!---
